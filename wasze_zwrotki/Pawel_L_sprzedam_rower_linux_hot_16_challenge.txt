@@ -1,0 +1,113 @@
+# AUTOR: PAWEL_L
+# Zasady: https://github.com/ZPXD/LinuxHot16Challenge
+
+# HOT 16
+
+# 1. man
+# Komenda wywołująca interfejs podręcznika ekranowego, tzn instrukcje do komend np man man, man cd itp itd...
+
+# 2. clear
+# Czyści terminal z wszystkiego co wpisaliśmy.
+
+# 3. cd
+# Zmiana katalogów, przechodzenie pomiędzy katalogami, np cd /var.
+
+# 4. ls 
+# Wypisywanie tego co znajduje się w danym katalogu w którym wywołamy komendę (niektóre dodatkowe argumetny używane z tą komendą ls -la, ls -ll ,ls -a, ls -t ...).
+
+# 5. cat
+# Wyświetlanie zawartości pliku cat "nazwa_pliku".
+
+# 6. mv
+# Przeniesienie, zmiana nazwy pliku mv "nazwa_pliku" "nowa_nazwa_pliku.
+
+# 7. rm
+# Usuwanie plików lub katalogów, pełne katalogi usuwamy z argumentem -r (rm -r 'nazwa_pelnego_katalogu', rm 'nazwa_pliku_lub_katalogu').
+
+# 8. pwd
+# Pokazuje miejsce, scieżke w której aktualnie się znajdujemy.
+
+# 9. cp
+# Kopiowanie plików lub katalogów.
+
+# 10. history
+# Wypisuje wszystki użyte przez nas komendy na zalogowanym użytkowniku.
+
+# 11. scp
+# Bezpieczne kopiowanie plików z komputera na serwer. (scp 'nazwa_pliku' nazwa_uzytkownika@ip_serwera:~/
+
+# 12. sudo su
+# Logowanie na użytkownika root (sudo su 'nazwa_uzytkownia' <<<--- logowanie na użytkownika)
+
+# 13. sudo passwd
+# Zmiana hasła użytkownika
+
+# 14. ssh user@ip
+# Logowanie na serwer po ssh 
+
+# 15. sudo apt update && sudo apt upgrade -y
+# Aktualizowanie pakietow linux
+
+# 16. mkdir
+# Tworzenie katalogów mkdir 'nazwa katalogu'
+
+
+
+# HOT 32
+
+# 17. chmod
+# Nadawanie uprawnien plikom i katalogom
+
+# 18. touch
+# Zmiana czasu modyfikacji lub ostatniego dostepu do pliku.
+
+# 19. ssh-keygen -t rsa
+# Tworzenie nowych kluczy rsa.
+
+# 20. ps
+# Wypisanie procesów systemowych
+
+# 21. kill
+# Zakończenie procesu (kill 'nr_prcesu')
+
+# 22. top
+# Monitor precesów.
+
+# 23. grep
+# Wyszukiwanie.
+
+# 24. exit
+# Exit.
+
+# 25. curl
+# Wczytywanie/transferowanie z linka URL
+
+# 26. ifconfig
+# Wypisanie interfejsów sieciowych.
+
+# 27. hostname
+# Wyświetla nazwe hosta (niektóre dodatkowe argumenty -i -f -s ...  )
+
+# 28. wget
+# Pobieranie plików z internetu.
+
+# 29. vim , nano 
+# Edytory tekstu.
+
+# 30. uname
+# Wypisuje informacje o systemie.
+
+# 31. reboot
+# Reboot, ponowne uruchomienie komputera.
+
+# 32. shutdown -P
+# Wyłączenie komputera.
+
+
+
+
+#### ZPXD:
+# Darmowe roczne zajęcia z programowania. Zapraszajcie:
+# Szturm na AWS - www: https://zajecia-programowania-xd.pl/szturm_na_aws
+# Szturm na AWS - fb: https://www.facebook.com/Szturm-na-AWS-109216351659123
+# Szturm na AWS - discord: https://discord.gg/46JVvHgzqz
